@@ -1,0 +1,5 @@
+GET http://localhost:9988/api/book/categories
+
+###############################
+
+GET http://localhost:9988/api/book/category/1
